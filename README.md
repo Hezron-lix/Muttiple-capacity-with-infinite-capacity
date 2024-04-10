@@ -16,14 +16,15 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/Hezron-lix/Muttiple-capacity-with-infinite-capacity/assets/139331337/301c02ae-28bf-49bf-9069-d2d87fdb065a)
+![image](https://github.com/Hezron-lix/Muttiple-capacity-with-infinite-capacity/assets/139331337/e3d7b8a9-236d-4ff4-bc12-ed6e6ace4595)
 
 
 ## Program
-
+```
 #Developed By: Hezron Belix
 #Register No: 212223230078
-
-``` python
+ python
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in sec
 ser_time=float(input("Enter the mean inter service time of Lathe Machine (in secs) :
@@ -58,6 +59,7 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
+![image](https://github.com/Hezron-lix/Muttiple-capacity-with-infinite-capacity/assets/139331337/873e3f6c-ad72-4e6f-afb3-fb2240447440)
 
 ## Result : 
 
